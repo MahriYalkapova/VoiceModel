@@ -1,4 +1,5 @@
 import axios from 'axios';
+const axios = require('axios');
 
 const url = "https://arpeggi.io/api/kits/v1/voice-models";
 const api_token = 'TSESMmZW.-Jb_8n6RnEzHPgiaGsw5gWFU';
